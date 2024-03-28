@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* لون الخلفية للصفحة بالكامل */
+}
+
+.background-div {
+    background-image: url('wallpaperbetter.com_1366x768.jpg'); /* رابط الصورة الخلفية التي تريدها */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* هذا يجعل الخلفية مثبتة ولا تتحرك مع التمرير */
+    height: 100vh; /* ارتفاع العنصر div ليمتلئ بالشاشة بالكامل */
+}
