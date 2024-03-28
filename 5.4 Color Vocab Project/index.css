@@ -1,0 +1,52 @@
+html{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+#ax{
+    text-align: center;
+    color: aqua;
+}
+
+#red{
+  color: red;
+  
+}
+
+#blue{
+  color: rgb(29, 105, 219); 
+  
+ 
+}
+
+#orange{
+ color: orange;
+
+ 
+}
+
+#green{
+    color: green;
+    
+    
+}
+
+#yellow{
+   color: yellow;
+   
+}
+
+.color-title{
+    font-weight: normal;
+}
+
+img{
+
+    width: 200px;
+    height:200px;
+   
+}
